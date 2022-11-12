@@ -1,0 +1,73 @@
+{
+    "section1": [
+        {
+            "id":1,
+            "img": "https://m.media-amazon.com/images/M/MV5BODg5M2FiNjItZTlmMC00MjRkLTlhMDktOTU4ZmZlZWE0OTY5XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_.jpg"
+        },
+        {
+            "id":2,
+            "img": "https://i.ytimg.com/vi/dfDx5ed83IA/maxresdefault.jpg"
+        },
+        {
+            "id":3,
+            "img": "https://i2.wp.com/thefutureoftheforce.com/wp-content/uploads/2021/08/Shang-Chi-And-The-Legend-Of-The-Ten-Rings-Header-2.jpg?fit=1920%2C1080&ssl=1"
+        },
+        {
+            "id":4,
+            "img": "https://www.letsott.com/assets/uploads/posts/Mukhosh-1366-x-768.jpg"
+        },
+        {
+            "id":5,
+            "img": "https://i.cdn.newsbytesapp.com/images/l86020210704110053.jpeg"
+        }
+    ],
+    "section2" : [
+        {
+            "id":1,
+            "title" : "No Time To Die",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjI4NTI0ODMtYjQzZC00YzljLWE3YzUtM2MzMmNmZjA1Y2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+        },
+        {
+            "id":2,
+            "title" : "Shershaah",
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/91/Shershaah_film_poster.jpg"
+        },
+        {
+            "id":3,
+            "title" : "Marvel's Shang-Chi",
+            "img": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shangchi_lob_crd_07.jpg"
+        }
+    ],
+    "section3" : [
+        {
+            "id" : 1,
+            "category" : "Horror",
+            "img" : "https://media.bluecinema.ch/filer_public_thumbnails/cinepool/assets/movies/1012.982/artworks/c6d7bf86dd1ea3728edbbbfb6835fd26a12f33fc/lrg.png__650x935_q70.jpg"
+        },
+        {
+            "id" : 2,
+            "category" : "Thriller",
+            "img" : "https://static.toiimg.com/thumb/msid-69265149,width-219,height-317,imgsize-19211/69265149.jpg"
+        },
+        {
+            "id" : 3,
+            "category" : "Romance",
+            "img" : "https://static.toiimg.com/thumb/msid-79283332,width-219,height-317,imgsize-11584/79283332.jpg"
+        },
+        {
+            "id" : 4,
+            "category" : "Action",
+            "img" : "https://static.toiimg.com/thumb/msid-80667156,width-219,height-317,imgsize-39993/80667156.jpg"
+        },
+        {
+            "id" : 5,
+            "category" : "Crime",
+            "img" : "https://static.toiimg.com/thumb/msid-81774445,width-219,height-317,imgsize-21435/81774445.jpg"
+        },
+        {
+            "id" : 6,
+            "category" : "Drama",
+            "img" : "https://static.toiimg.com/thumb/msid-85481366,width-219,height-317,imgsize-8250/85481366.jpg"
+        }
+    ]
+}

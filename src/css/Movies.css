@@ -1,0 +1,23 @@
+.c-1{
+    background-image: linear-gradient(260deg,black,white);
+}
+
+.c-1 > p {
+    text-align: center;
+    border-bottom: 3px solid red;
+    border-radius: 5%;
+} 
+
+thead{
+   text-align: center;
+}
+
+.center{
+    text-align: center;
+    text-decoration: none;
+}
+
+.link-arrow-movies{
+    text-decoration: none;
+    color: black;
+}

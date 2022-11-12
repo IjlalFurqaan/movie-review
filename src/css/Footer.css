@@ -1,0 +1,58 @@
+/* ---------------------------------------------- */
+.before-footer {
+    background-color: rgb(36, 36, 36);
+    /* background-color: aqua; */
+    height: 50px;
+    width: 100%;
+}
+
+.sec-left{
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+    font-size: 1.1rem;
+}
+
+.sec-left > span > a{
+    text-decoration: none;
+    color: white;
+}
+
+.sec-left > span > a:hover{
+    color: rgb(156, 151, 151);
+}
+
+
+.sec-left > span:after,.sec-left:nth-of-type(1) {
+    padding: 0 10px;
+    content: '/';
+    color: white;
+}
+
+.sec-left > span:last-of-type:after {
+    content: '';
+}
+
+
+.sec-right{
+    width: 50%;
+    height: 50px;
+    float: right;
+    color: wheat;
+    
+}
+
+.sec-right > span {
+    float: right;
+    margin: 10px 50px;
+    transform: scale(2);
+}
+
+
+footer{
+    background-color: rgb(202, 11, 11);
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+}
+
